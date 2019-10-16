@@ -1,0 +1,121 @@
+.calc{
+    top: 250px; 
+    left: 250px;
+    border: 10px;
+    border-color: black;
+  }
+  #idCE{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idC{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idClear{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idDiv{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id7{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id8{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id9{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idMult{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id4{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id5{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id6{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idMinus{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id1{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id2{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id3{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idPlus{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idPM{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #id0{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idDot{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #idEqual{
+    text-align: center;
+    width: 50px;
+    height: 35px;
+  }
+  #result{
+    background-color: white;
+    width: 211px;
+    text-align: right;
+    font-size: 30px;
+    font-family: Tahoma;
+  }
+  #archive{
+    background-color: white;
+    width: 211px;
+    text-align: right;
+    font-family: Tahoma;
+    font-size: 13px;
+    color: grey;
+  }
